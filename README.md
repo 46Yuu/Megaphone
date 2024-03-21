@@ -1,6 +1,6 @@
 # Présentation
 
-Serveur de discussion et de fil de discussion avec abonnement client aux fils et discussions privés.
+Serveur de discussion et de fil de discussion avec abonnement par des clients et discussions privés possible.
 
 # Authors
 
